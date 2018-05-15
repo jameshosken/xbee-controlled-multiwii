@@ -1,8 +1,3 @@
-
-
-#include "SoftwareSerial.h" //JH ADDED
-
-
 /*
  * Welcome to MultiWii.
  *
@@ -16,3 +11,5 @@
  *
  */
 
+// Modified for use with XBee by James Hosken 2018
+#include "SoftwareSerial.h" //JH ADDED
